@@ -1,0 +1,18 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scriptes/TouchHandler.cs">
+    <Files>
+      <File FileName="Assets/Scriptes/TestDualTouchControls.cs" Line="4" Column="35" />
+      <File FileName="Assets/Scriptes/TestCarTiltControls.cs" Line="4" Column="33" />
+      <File FileName="Assets/Scriptes/TouchHandler.cs" Line="62" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fongwang/Documents/workspace/UnityPro/CrossPlatformInputTest/Assets/Scriptes/TouchHandler.cs" line="47" column="1" />
+      <Breakpoint file="/Users/fongwang/Documents/workspace/UnityPro/CrossPlatformInputTest/Assets/Scriptes/TouchHandler.cs" line="38" column="1" />
+      <Breakpoint file="/Users/fongwang/Documents/workspace/UnityPro/CrossPlatformInputTest/Assets/Scriptes/TouchHandler.cs" line="85" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
